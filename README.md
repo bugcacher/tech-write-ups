@@ -19,5 +19,6 @@
 ](https://medium.com/@abhinav__singh/introduction-to-dagger-2-for-beginners-a7da4c09053c?sk=3f05843d5aa9a2f1744095e5b7fb6711)
 - [Android Speech To Text Tutorial
 ](https://medium.com/voice-tech-podcast/android-speech-to-text-tutorial-8f6fa71606ac?sk=6789d629596e8632b40de02be246a50f)
+- [Why Caching Matters and How to Do It Right](https://medium.com/@abhinav__singh/why-caching-matters-and-how-to-do-it-right-4945904d3a47?source=friends_link&sk=a7baf5d34d34560840d65593d0f01854)
 
 ### Substack
